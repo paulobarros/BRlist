@@ -2,9 +2,13 @@ title: BRlist
 url: https://paulobarros.github.io/BRlist/
 template:
   bootstrap: 5
-  bootswatch: sandstone
+  bootswatch: lux
+  navbar:
+    bg: dark
+    type: dark
   theme: tango
   bslib:
+    pkgdown-nav-height: 100px
     base_font: {google: "Roboto"}
     code_font: {google: "JetBrains Mono"}
 
