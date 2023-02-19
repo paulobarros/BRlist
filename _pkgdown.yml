@@ -2,7 +2,9 @@ title: BRlist
 url: https://paulobarros.github.io/BRlist/
 template:
   bootstrap: 5
-  bootswatch: flatly
+  bootswatch: lux
   theme: tango
+  bslib:
+    pkgdown-nav-height: 100px
 lang: pt
 
