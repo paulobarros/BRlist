@@ -3,12 +3,8 @@ url: https://paulobarros.github.io/BRlist/
 template:
   bootstrap: 5
   bootswatch: sandstone
-  navbar:
-    bg: dark
-    type: dark
   theme: tango
   bslib:
-    pkgdown-nav-height: 110px
     base_font: {google: "Roboto"}
     code_font: {google: "JetBrains Mono"}
 
