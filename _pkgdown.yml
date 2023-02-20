@@ -5,11 +5,11 @@ template:
   bootswatch: lux
   navbar:
     type: dark
-  theme: tango
+  theme: pygments
   bslib:
     pkgdown-nav-height: 100px
-    base_font: {google: "Roboto"}
-    code_font: {google: "JetBrains Mono"}
+    base_font: {google: "Carrois Gothic"}
+    code_font: {google: "Fira Code"}
 
 
 lang: pt
