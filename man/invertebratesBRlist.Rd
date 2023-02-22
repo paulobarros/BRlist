@@ -7,7 +7,7 @@
 \format{
 \subsection{\code{invertebratesBRlist}}{
 
-A data frame with 61 rows and 5 columns:
+A data frame with 372 rows and 8 columns:
 \describe{
 \item{phylum}{Taxonomic Phylum}
 \item{class}{Taxonomic Class}
@@ -31,6 +31,6 @@ published by the Ministério do Meio Ambiente
 \details{
 Information on Phylum and Class taxonomic classifications gathered via \href{https://docs.ropensci.org/taxize/articles/taxize.html}{\code{taxize} package}
 
-Source availabe at \href{https://www.in.gov.br/web/dou/-/portaria-mma-n-148-de-7-de-junho-de-2022-406272733}{MMA 148/2022}
+Source availabe at \href{https://www.in.gov.br/en/web/dou/-/portaria-gm/mma-n-300-de-13-de-dezembro-de-2022-450425464}{MMA 300/2022}
 }
 \keyword{datasets}

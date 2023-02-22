@@ -3,7 +3,7 @@
 #' Dataset of the official Brazilian Threatened Species List
 #' published by the Ministério do Meio Ambiente
 #'
-#' Source availabe at [MMA 148/2022](https://www.in.gov.br/web/dou/-/portaria-mma-n-148-de-7-de-junho-de-2022-406272733)
+#' Source availabe at [MMA 300/2022](https://www.in.gov.br/en/web/dou/-/portaria-gm/mma-n-300-de-13-de-dezembro-de-2022-450425464)
 #'
 #' @format ## `amphibiaBRlist`
 #' A data frame with 61 rows and 5 columns:
@@ -22,10 +22,10 @@
 #' Dataset of the official Brazilian Threatened Species List
 #' published by the Ministério do Meio Ambiente
 #'
-#' Source availabe at [MMA 148/2022](https://www.in.gov.br/web/dou/-/portaria-mma-n-148-de-7-de-junho-de-2022-406272733)
+#' Source availabe at [MMA 300/2022](https://www.in.gov.br/en/web/dou/-/portaria-gm/mma-n-300-de-13-de-dezembro-de-2022-450425464)
 #'
 #' @format ## `avesBRlist`
-#' A data frame with 61 rows and 5 columns:
+#' A data frame with 263 rows and 5 columns:
 #' \describe{
 #'   \item{order}{Taxonomic Order}
 #'   \item{family}{Taxonomic Family}
@@ -41,10 +41,10 @@
 #' Dataset of the official Brazilian Threatened Species List
 #' published by the Ministério do Meio Ambiente
 #'
-#' Source availabe at [MMA 148/2022](https://www.in.gov.br/web/dou/-/portaria-mma-n-148-de-7-de-junho-de-2022-406272733)
+#' Source availabe at [MMA 300/2022](https://www.in.gov.br/en/web/dou/-/portaria-gm/mma-n-300-de-13-de-dezembro-de-2022-450425464)
 #'
 #' @format ## `reptiliaBRlist`
-#' A data frame with 61 rows and 5 columns:
+#' A data frame with 71 rows and 5 columns:
 #' \describe{
 #'   \item{order}{Taxonomic Order}
 #'   \item{family}{Taxonomic Family}
@@ -60,10 +60,10 @@
 #' Dataset of the official Brazilian Threatened Species List
 #' published by the Ministério do Meio Ambiente
 #'
-#' Source availabe at [MMA 148/2022](https://www.in.gov.br/web/dou/-/portaria-mma-n-148-de-7-de-junho-de-2022-406272733)
+#' Source availabe at [MMA 300/2022](https://www.in.gov.br/en/web/dou/-/portaria-gm/mma-n-300-de-13-de-dezembro-de-2022-450425464)
 #'
 #' @format ## `mammaliaBRlist`
-#' A data frame with 61 rows and 5 columns:
+#' A data frame with 103 rows and 5 columns:
 #' \describe{
 #'   \item{order}{Taxonomic Order}
 #'   \item{family}{Taxonomic Family}
@@ -79,10 +79,10 @@
 #' Dataset of the official Brazilian Threatened Species List
 #' published by the Ministério do Meio Ambiente
 #'
-#' Source availabe at [MMA 148/2022](https://www.in.gov.br/web/dou/-/portaria-mma-n-148-de-7-de-junho-de-2022-406272733)
+#' Source availabe at [MMA 300/2022](https://www.in.gov.br/en/web/dou/-/portaria-gm/mma-n-300-de-13-de-dezembro-de-2022-450425464)
 #'
 #' @format ## `fishesBRlist`
-#' A data frame with 61 rows and 5 columns:
+#' A data frame with 393 rows and 5 columns:
 #' \describe{
 #'   \item{order}{Taxonomic Order}
 #'   \item{family}{Taxonomic Family}
@@ -98,10 +98,10 @@
 #' Dataset of the official Brazilian Threatened Species List
 #' published by the Ministério do Meio Ambiente
 #'
-#' Source availabe at [MMA 148/2022](https://www.in.gov.br/web/dou/-/portaria-mma-n-148-de-7-de-junho-de-2022-406272733)
+#' Source availabe at [MMA 300/2022](https://www.in.gov.br/en/web/dou/-/portaria-gm/mma-n-300-de-13-de-dezembro-de-2022-450425464)
 #'
 #' @format ## `plantsBRlist`
-#' A data frame with 61 rows and 5 columns:
+#' A data frame with 3209 rows and 4 columns:
 #' \describe{
 #'   \item{order}{Taxonomic Order}
 #'   \item{family}{Taxonomic Family}
@@ -121,10 +121,10 @@
 #'
 #'
 #'
-#' Source availabe at [MMA 148/2022](https://www.in.gov.br/web/dou/-/portaria-mma-n-148-de-7-de-junho-de-2022-406272733)
+#' Source availabe at [MMA 300/2022](https://www.in.gov.br/en/web/dou/-/portaria-gm/mma-n-300-de-13-de-dezembro-de-2022-450425464)
 #'
 #' @format ## `invertebratesBRlist`
-#' A data frame with 61 rows and 5 columns:
+#' A data frame with 372 rows and 8 columns:
 #' \describe{
 #'   \item{phylum}{Taxonomic Phylum}
 #'   \item{class}{Taxonomic Class}

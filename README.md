@@ -11,7 +11,7 @@ Follow](https://img.shields.io/twitter/follow/pbarrosjr?color=%2315202B&label=Se
 
 ## Brazilian Red List of Species
 
-This package contains datasets from the official Brazilian Endangered Species List published by the Ministério do Meio Ambiente [MMA 148/2022](https://www.in.gov.br/web/dou/-/portaria-mma-n-148-de-7-de-junho-de-2022-406272733). The package provides separated datasets for Plants, Invertebrates (Land and Aquatic), Amphibians, Reptiles, Birds, Fishes and Mammals.
+This package contains datasets from the official Brazilian Endangered Species List published by the Ministério do Meio Ambiente [MMA 300/2022](https://www.in.gov.br/en/web/dou/-/portaria-gm/mma-n-300-de-13-de-dezembro-de-2022-450425464). The package provides separated datasets for Plants, Invertebrates (Land and Aquatic), Amphibians, Reptiles, Birds, Fishes and Mammals.
 
 ## Instalation
 
@@ -45,4 +45,4 @@ All datasets have information on taxonomic `order`, `family` and `species`, `cat
 
 ## Notes
 
-**Please feel free to report any mistakes on the datasets.** Taxonomic classification follows the MMA 148/2022. For the Birds list I intend to incorporate the Brazilian and US common name since it is avaiable online, if anyone has this information for the other groups and want to contribute please contact me at <pbarrosbio@gmail.com>.
+**Please feel free to report any mistakes on the datasets.** Taxonomic classification follows the MMA 300/2022. For the Birds list I intend to incorporate the Brazilian and US common name since it is avaiable online, if anyone has this information for the other groups and want to contribute please contact me at <pbarrosbio@gmail.com>.

@@ -1,0 +1,10 @@
+citHeader("To cite BRlist in publications use:")
+
+citEntry(
+  entry    = "manual",
+  title    = "BRlist: Brazilian Red List of Endangered Species",
+  author   = "Paulo Barros de Abreu Junior",
+  year     = "2023",
+  url      = "https://paulobarros.github.io/BRlist/",
+  textVersion = paste("de Abreu Junior P.B. (2023)","BRlist: Brazilian Red List of Endangered Species.")
+)
